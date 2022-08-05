@@ -2,7 +2,7 @@
 Calendar booklet generator to write down working hours for each year.
 
 ## **Features**
-- built in holidays for several regions
+- built in holidays for several [regions](https://github.com/dr-prodigy/python-holidays#available-countries)
 - custom events via MS Excel or csv file
 - custom event colors
 
