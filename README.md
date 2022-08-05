@@ -21,7 +21,7 @@ include_custom_events = False   # not needed for now
 include_page_no = False         # not needed for now
 language = "en"                 # support for "en" and "de" for now
 ```
-> **NOTE**: A full list of all supported holiday countries can be found in the [holidays repo](https://github.com/dr-prodigy/python-holidays#available-countries).
+> **NOTE**: A full list of all supported holiday countries can be found in the [holidays repo](https://github.com/dr-prodigy/python-holidays).
 
 After you run `main.py` with the settings above a file named `booklet.pdf` will appear. This is the most simple type of usage for this program.
 
