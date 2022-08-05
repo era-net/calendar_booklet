@@ -1,0 +1,9 @@
+{
+    "site_prefix": "Page",
+    "month_strings": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "short_weekdays": ["MON", "TUE", "WED", "THU", "FRI", "SAT", "SUN"],
+    "date": "date",
+    "hours": "hours",
+    "currency": "$",
+    "description": "description"
+}

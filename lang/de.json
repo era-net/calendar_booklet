@@ -1,0 +1,9 @@
+{
+    "site_prefix": "Seite",
+    "month_strings": ["Januar", "Februar", "März", "April", "Mai", "Juni", "Juli", "August", "September", "Oktober", "November", "Dezember"],
+    "short_weekdays": ["MO", "DI", "MI", "DO", "FR", "SA", "SO"],
+    "date": "Datum",
+    "hours": "Std.",
+    "currency": "CHF",
+    "description": "Bemerkung"
+}

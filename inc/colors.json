@@ -1,0 +1,14 @@
+{
+    "holidays": {
+        "font": "#000000",
+        "background": "#C5E0B3"
+    },
+    "sample.xlsx": {
+        "font": "#ff0000",
+        "background": "#cccccc"
+    },
+    "sample.csv": {
+        "font": "#0000ff",
+        "background": "#cccccc"
+    }
+}
